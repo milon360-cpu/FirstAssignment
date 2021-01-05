@@ -84,14 +84,19 @@ section
 }
 .thirdHalf_with
 {
-    width: 20%;
+    width: 25%;
     float: left;
-    margin-left: 8%;
-    padding: 40px;
-    box-shadow: 20px 10px 30px gray;
+    margin-left: 6%;
+    height: 80%;
+    padding: 10px;
+    box-shadow: 10px 10px 30px gray;
     border-radius: 15px;
     border-left: 4px solid blue;
-    border-bottom:4px solid red;
+    border-bottom:4px solid black;
+}
+.thirdHalf_with p
+{
+  color: gray;
 }
 .image_size
 {
