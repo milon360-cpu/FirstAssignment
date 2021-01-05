@@ -1,0 +1,70 @@
+body
+{
+    font-family: 'Playfair Display', serif;
+    margin: 0%;
+    padding: 0%;
+}
+a
+{
+  
+    text-decoration: none;
+    color: black;
+    padding-right: 20px;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+h1
+{
+    font-size: 75px;
+    padding: 0%;
+   
+
+}
+img
+{
+    width: 80%;
+}
+p{
+    font-size: 25px;
+}
+section
+{
+    margin-top: 5%;
+}
+.text-highlight1
+{
+    color: coral;
+}
+.text-highlight2
+{
+    color: orange
+}
+.Nvbar
+{
+    margin-left: 68%;
+    margin-top: 4%;
+   
+}
+.half_width
+{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+}
+.button
+{
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    border: 10px;
+    background-image: linear-gradient(red,black);
+    border-radius: 8px;
+    font-size: 20px;
+    box-shadow: 10px 20px 40px gray;
+   
+    
+    
+    
+}
+
