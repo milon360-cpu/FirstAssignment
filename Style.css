@@ -3,6 +3,7 @@ body
     font-family: 'Playfair Display', serif;
     margin: 0%;
     padding: 0%;
+    width: 100%;
 }
 a
 {
@@ -61,12 +62,12 @@ section
 {
     color:black;
     font-weight: bold;
-    padding: 10px 15px;
+    padding: 18px 35px;
     border: 10px;
-    background-image: linear-gradient(30deg,white,gray);
-    border-radius: 8px;
+    background-image: linear-gradient(30deg,white, rgb(119, 0, 255));
+    border-radius: 12px;
     font-size: 20px;
-    box-shadow: 10px 20px 40px gray; 
+    box-shadow: 5px 10px 20px gray; 
 }
 .icon
 {
@@ -98,10 +99,37 @@ section
 {
   color: gray;
 }
-.image_size
+
+
+.section_fifth
 {
-    width: 300px;
-    height: 200px;
+    margin-left: 20%;
 }
+.section_fifth h1
+{
+    margin-top: -14%;
+    margin-left: 6%;
+    color: white;
+    
 
+}
+.section_fifth button
+{
+    padding-top: 10%;
+    margin-left: 65%;
+   color: white;
+   background-image: linear-gradient(black, blue);
+   padding: 10px 25px;
+}
+.Last_Section
+{
+    text-align: center;
 
+}
+.Last_Section span
+{
+    font-size: 40px;
+    color: grey;
+    width: 40%;
+    
+}
