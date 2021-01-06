@@ -115,7 +115,7 @@ section
 }
 .section_fifth button
 {
-    padding-top: 10%;
+   margin-top: -40%;
     margin-left: 65%;
    color: white;
    background-image: linear-gradient(black, blue);
@@ -128,8 +128,18 @@ section
 }
 .Last_Section span
 {
-    font-size: 40px;
-    color: grey;
-    width: 40%;
+  font-size: 30px;
+  color: darkgreen;
     
+}
+.image_size
+{
+    height: 45px;
+    width: 50px;
+    margin-left: -3%;
+    
+}
+.image_section
+{
+    margin-left: 44%;
 }
